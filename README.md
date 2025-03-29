@@ -1,6 +1,5 @@
 # pagila-hw3
-[![](https://github.com/Yiqisun1/pagila-hw3/workflows/tests/badge.svg)](https://github.com/Yiqisun1/pagila-hw3/actions?query=workflow%3Atests)
-
+[![](https://github.com/Yiqisun1/pagila-hw2/workflows/tests/badge.svg)](https://github.com/Yiqisun1/pagila-hw2/actions?query=workflow%3Atests)
 ## Tasks
 
 1. Fork this repo and clone it on to the lambda server like normal.
