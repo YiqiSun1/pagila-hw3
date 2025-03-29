@@ -10,6 +10,7 @@ for problem in sql/*; do
     result="results/$problem_id.out"
     expected="expected/$problem_id.out"
     psql < $problem > $result
+
     DIFF=$(diff -B $expected $result)
     if [ -z "$DIFF" ]; then
         echo pass
