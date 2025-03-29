@@ -26,7 +26,7 @@
     postgres=# select count(*) from staff;
      count
     -------
-         2
+          2
     (1 row)
     ```
     Obvserve that this data is not very realistic.
